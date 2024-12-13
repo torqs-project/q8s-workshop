@@ -1,2 +1,2 @@
 jupyter
-q8sctl
+q8s
