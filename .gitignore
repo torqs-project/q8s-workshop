@@ -1,1 +1,8 @@
+# Python virtual environment
 .venv
+
+# Jupyter Notebook cache
+.ipynb_checkpoints
+
+# Kubernetes configuration file
+config
