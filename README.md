@@ -19,8 +19,16 @@ python -m venv .venv
 
 Activate the environment:
 
+- linux/macOS:
+
 ```bash
 source .venv/bin/activate
+```
+
+- Windows:
+
+```bash
+.venv\Scripts\activate
 ```
 
 Install python dependencies:
