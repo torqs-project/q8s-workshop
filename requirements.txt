@@ -1,0 +1,2 @@
+jupyter
+q8sctl
